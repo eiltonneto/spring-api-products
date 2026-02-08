@@ -56,14 +56,3 @@ O campo value deve ser um número positivo.
 Feito com ❤️ por Eilton Neto
 
 
----
-
-### Como aplicar isso agora:
-1. Abra o arquivo `README.md` no seu editor (ou crie um se não existir).
-2. Apague o que estiver lá e cole esse conteúdo acima.
-3. Não esqueça de trocar `SEU_USUARIO` e `NOME_DO_REPO` pelos seus dados reais.
-4. Salve e faça o ciclo do Git:
-    - `git add README.md`
-    - `git commit -m "docs: adiciona readme detalhado"`
-    - `git push`
-
